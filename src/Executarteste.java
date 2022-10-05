@@ -7,7 +7,7 @@ public class Executarteste {
 		Produto produto1 = new Produto();
 		produto1.setId(1L);
 		produto1.setNome("Modulo Orientaçao objeto");
-		produto1.setValor(197.00);
+		produto1.set(197.00);
 		
 		
 		
